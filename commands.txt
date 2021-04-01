@@ -1,0 +1,6 @@
+npm i
+
+npm start
+
+
+all packages are listed in package.json
